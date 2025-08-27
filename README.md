@@ -6,7 +6,10 @@
 
 💻 Sou uma estudante de **Sistemas de Informação** apaixonada por transformar ideias em interfaces modernas, acessíveis e funcionais com foco em UX/UI.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julia-ed2&show_icons=true&theme=radical)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=julia-ed2&show_icons=true&theme=radical" alt="Anurag's GitHub stats" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia-ed2&layout=compact" alt="Top Langs" height="180"/>
+</p>
 
 # Ferramentas e Tecnologias
 
