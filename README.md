@@ -28,5 +28,10 @@
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" alt="Jupyter" width="80" height="80"/>
 </p>
 
+## Sobre Mim
+
+✨ Sempre curiosa e em constante aprendizado.  
+💡 Gosto de resolver problemas e transformar ideias em código.  
+🎯 Objetivo: crescer como desenvolvedora front-end e colaborar em projetos que impactem pessoas. 
 
 
