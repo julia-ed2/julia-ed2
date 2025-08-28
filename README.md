@@ -32,7 +32,7 @@
 -->
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,js,react,wordpress,c,py,git,github,vscode,pycharm" />
   </a>
 </p>
@@ -44,5 +44,17 @@
 🎯 Objetivo: crescer como desenvolvedora front-end e colaborar em projetos que impactem pessoas. 
 
 ## Entre em contato comigo
+
+<p align="center"
+    <a href="https://www.linkedin.com/in/julia-eduarda-fernandes-silva-443a22280">
+        <img src="https://skillicons.dev/icons?i=linkedin" />
+    </a>
+    <a href="https://www.instagram.com/jufsilva1?igsh=dmxsY3RveWxvczBv">
+       <img src="https://skillicons.dev/icons?i=instagram" />
+    </a>
+    <a href="malito:juliaeduardafernandes123@gmail.com">
+       <img src="https://skillicons.dev/icons?i=gmail" />
+    </a>
+</p>
 
 
