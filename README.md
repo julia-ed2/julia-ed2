@@ -2,7 +2,7 @@
     <img src="img/banner2.jpg" alt="Descrição da imagem" style="width:100%; height:350px; object-fit:cover; border-radius:10px;">
 </p>
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF0DFFC5&vCenter=true&width=435&lines=Ol%C3%A1%2C+mundo!+Sou+J%C3%BAlia+Eduarda+;Desenvolvedora+Front-end)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF0DFFC5&vCenter=true&width=435&lines=Ol%C3%A1%2C+Sou+a+J%C3%BAlia+Eduarda+;Desenvolvedora+Front-end)](https://git.io/typing-svg)
 
 💻 Sou uma estudante de **Sistemas de Informação** apaixonada por transformar ideias em interfaces modernas, acessíveis e funcionais com foco em UX/UI.
 
