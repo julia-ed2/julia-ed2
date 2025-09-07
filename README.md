@@ -44,9 +44,15 @@
 
 - 🔍 Sempre curiosa e em constante aprendizado.  
 - 💡 Gosto de resolver problemas e transformar ideias em código.  
-- 🚀 Explorando novas tecnologias e criando projetos práticos.  
+- 🚀 Explorando novas tecnologias e criando projetos práticos.
+
+![Frontend Vibes](https://img.shields.io/badge/Frontend-Vibes-ff69b4?style=for-the-badge&logo=react&logoColor=white)
+![Code & Coffee](https://img.shields.io/badge/Code%20%26%20Coffee-brown?style=for-the-badge&logo=buymeacoffee&logoColor=white)
+![Always Learning](https://img.shields.io/badge/Always-Learning-blueviolet?style=for-the-badge&logo=bookstack&logoColor=white)
+![UI/UX Lover](https://img.shields.io/badge/UI%2FUX-Lover-ff4ddb?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
+
 
 ## 📬 Vamos nos conectar!
 
