@@ -3,12 +3,11 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF0DFFC5&vCenter=true&width=450&lines=Ol%C3%A1%2C+sou+a+J%C3%BAlia+Eduarda;Desenvolvedora+Front-end;Apaixonada+por+UX+%26+UI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF0DFFC5&vCenter=true&width=450&lines=Ol%C3%A1%2C+Mundo.+Sou+a+Julia+Eduarda" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  💻 Estudante de <b>Sistemas de Informação</b> | 🌐 Transformando ideias em <b>interfaces modernas e acessíveis</b> <br>
-  🎯 Buscando crescer como <b>Front-end Developer</b> e colaborar em projetos que impactem pessoas.  
+  💻 Estudante de <b>Sistemas de Informação</b> | 🌐 Transformando ideias em <b>sistemas</b> <br> 
 </p>
 
 ---
