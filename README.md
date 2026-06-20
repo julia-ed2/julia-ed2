@@ -37,7 +37,7 @@
 ## 🌟 Projetos em Destaque
 
 
-### 🚔 [Escalar](https://github.com/julia-ed2/PetSystem)
+### 🚔 [Escalar](https://github.com/julia-ed2/Escalar)
 
 Sistema web desenvolvido para o setor de Vigilância do UNIPAM, responsável pela gestão de escalas, plantões, trocas, férias e atestados. O projeto conquistou o **2º lugar na ExpoTech 2/2025**.
 
@@ -52,7 +52,7 @@ Sistema web desenvolvido para o setor de Vigilância do UNIPAM, responsável pel
 
 #### Tecnologias
 
-`HTML` `CSS` `JavaScript` `Bootstrap` `Figma` `APIs REST`
+`HTML` `CSS` `JavaScript` `Python` `Bootstrap` `Figma` `APIs REST`
 
 ---
 
@@ -71,6 +71,7 @@ Sistema completo de gestão para clínicas veterinárias desenvolvido a partir d
 #### Minha atuação
 
 * Levantamento de requisitos
+* Mapeamentoo do processo e tomada de decisões
 * Prototipação de interfaces
 * Desenvolvimento Front-end
 * Organização e documentação do projeto
@@ -78,9 +79,7 @@ Sistema completo de gestão para clínicas veterinárias desenvolvido a partir d
 
 #### Tecnologias
 
-`React` `React Native` `JavaScript` `Firebase` `Figma` `Git/GitHub`
-
--  📝 [Casa & Decoração](https://julia-ed2.github.io/landing-page-Casa-Deco/) – Landing page de uma loja de móveis.   
+`React` `React Native` `Tailwind` `NativeWind` `JavaScript` `Python` `MySql` `Docker` `Figma` `Git/GitHub` 
 
 ---
 
