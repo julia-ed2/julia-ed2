@@ -36,15 +36,61 @@
 
 ## 🌟 Projetos em Destaque
 
-- 📝 [Casa & Decoração](https://julia-ed2.github.io/landing-page-Casa-Deco/) – Landing page de uma loja de móveis.   
+
+### 🚔 [Escalar](https://github.com/julia-ed2/PetSystem)
+
+Sistema web desenvolvido para o setor de Vigilância do UNIPAM, responsável pela gestão de escalas, plantões, trocas, férias e atestados. O projeto conquistou o **2º lugar na ExpoTech 2/2025**.
+
+#### Minha atuação
+
+* Levantamento de requisitos junto ao cliente
+* Modelagem de processos e fluxogramas
+* Prototipação de interfaces no Figma
+* Estruturação do Design System
+* Desenvolvimento Front-end
+* Organização e acompanhamento das atividades da equipe
+
+#### Tecnologias
+
+`HTML` `CSS` `JavaScript` `Bootstrap` `Figma` `APIs REST`
+
+---
+
+### 🐾 [PetSystem](https://github.com/julia-ed2/PetSystem)
+
+Sistema completo de gestão para clínicas veterinárias desenvolvido a partir de necessidades identificadas em uma clínica parceira. O projeto busca centralizar informações e otimizar processos administrativos e clínicos.
+
+#### Funcionalidades
+
+* Gestão de clientes e pacientes
+* Controle de consultas e atendimentos
+* Histórico clínico
+* Gestão de vacinas e exames
+* Controle administrativo e operacional
+
+#### Minha atuação
+
+* Levantamento de requisitos
+* Prototipação de interfaces
+* Desenvolvimento Front-end
+* Organização e documentação do projeto
+* Colaboração na modelagem das funcionalidades
+
+#### Tecnologias
+
+`React` `React Native` `JavaScript` `Firebase` `Figma` `Git/GitHub`
+
+-  📝 [Casa & Decoração](https://julia-ed2.github.io/landing-page-Casa-Deco/) – Landing page de uma loja de móveis.   
 
 ---
 
 ## ✨ Sobre Mim
 
-- 🔍 Sempre curiosa e em constante aprendizado.  
-- 💡 Gosto de resolver problemas e transformar ideias em código.  
-- 🚀 Explorando novas tecnologias e criando projetos práticos.
+- 🔍 Gosto de compreender problemas, analisar processos e estruturar soluções.
+- 🎨 Tenho interesse em UX/UI, experiência do usuário e desenvolvimento de interfaces.
+- 🚀 Participo de projetos de software envolvendo levantamento de requisitos, prototipação, modelagem de processos e desenvolvimento.
+- 🤝 Acredito que as melhores soluções surgem da conexão entre pessoas, processos e tecnologia.
+- 📚 Estou sempre em busca de novos conhecimentos e desafios que ampliem minha visão sobre sistemas e transformação digital.
 
 ![Frontend Vibes](https://img.shields.io/badge/Frontend-Vibes-ff69b4?style=for-the-badge&logo=react&logoColor=white)
 ![Code & Coffee](https://img.shields.io/badge/Code%20%26%20Coffee-brown?style=for-the-badge&logo=buymeacoffee&logoColor=white)
@@ -52,6 +98,8 @@
 ![UI/UX Lover](https://img.shields.io/badge/UI%2FUX-Lover-ff4ddb?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
+
+
 
 
 ## 📬 Vamos nos conectar!
