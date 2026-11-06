@@ -3,11 +3,11 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF0DFFC5&vCenter=true&width=450&lines=Hello+World" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF0DFFC5&vCenter=true&center=true&width=450&lines=<+Hello+World+/+>" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  💻 Estudante de <b>Sistemas de Informação</b> | 🌐 Transformando ideias em <b>sistemas</b> <br> 
+  💻 Estudante de <b>Sistemas de Informação</b> e profissional de TI <br> 🌐 Engenharia de software | Melhoria de Processos | Automação de tarefas 
 </p>
 
 ---
@@ -70,7 +70,7 @@ Sistema completo de gestão para clínicas veterinárias desenvolvido a partir d
 #### Minha atuação
 
 * Levantamento de requisitos
-* Mapeamentoo do processo e tomada de decisões
+* Mapeamento do processo e tomada de decisões
 * Prototipação de interfaces
 * Desenvolvimento Front-end
 * Organização e documentação do projeto
@@ -84,11 +84,10 @@ Sistema completo de gestão para clínicas veterinárias desenvolvido a partir d
 
 ## ✨ Sobre Mim
 
-- 🔍 Gosto de compreender problemas, analisar processos e estruturar soluções.
-- 🎨 Tenho interesse em UX/UI, experiência do usuário e desenvolvimento de interfaces.
-- 🚀 Participo de projetos de software envolvendo levantamento de requisitos, prototipação, modelagem de processos e desenvolvimento.
-- 🤝 Acredito que as melhores soluções surgem da conexão entre pessoas, processos e tecnologia.
-- 📚 Estou sempre em busca de novos conhecimentos e desafios que ampliem minha visão sobre sistemas e transformação digital.
+<p>Gosto de entender o problema antes de construir a solução: investigar como um processo funciona, organizar informações e identificar o que pode ser melhorado.</p>
+<p>O design é uma parte importante do que faço. Tenho interesse em interfaces bem construídas, tanto na aparência quanto na forma como orientam quem usa. Gosto de participar das decisões que conectam requisitos, experiência de uso e desenvolvimento. </p>
+<p>Também me interesso por automação e inteligência artificial aplicadas ao trabalho. Exploro essas ferramentas para reduzir tarefas repetitivas, desenvolver soluções e dedicar mais atenção à análise e às decisões de cada projeto.</p>
+<p>Aprendo colocando ideias em prática, buscando referências e ajustando o caminho conforme os resultados.</p>
 
 ![Frontend Vibes](https://img.shields.io/badge/Frontend-Vibes-ff69b4?style=for-the-badge&logo=react&logoColor=white)
 ![Code & Coffee](https://img.shields.io/badge/Code%20%26%20Coffee-brown?style=for-the-badge&logo=buymeacoffee&logoColor=white)
